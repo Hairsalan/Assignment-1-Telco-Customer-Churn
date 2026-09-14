@@ -498,7 +498,7 @@ The analysis was performed on the uploaded dataset using executed Python code, a
 
 ### Medium Article
 
-**[PLACEHOLDER — INSERT MEDIUM ARTICLE LINK HERE]**
+https://medium.com/@arsalan.syed_11850/predicting-telecom-customer-churn-with-crisp-dm-and-machine-learning-5f3d994e6397
 
 ### YouTube Video
 
