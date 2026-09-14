@@ -502,7 +502,7 @@ https://medium.com/@arsalan.syed_11850/predicting-telecom-customer-churn-with-cr
 
 ### YouTube Video
 
-**[PLACEHOLDER — INSERT YOUTUBE VIDEO LINK HERE]**
+https://youtu.be/FLakqIsQWSM
 
 ---
 
